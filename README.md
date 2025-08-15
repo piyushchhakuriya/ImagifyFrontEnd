@@ -25,17 +25,12 @@ A sleek and responsive image management dashboard built with ReactJS, designed f
 
 ## 📌 About the Project
 Imagify is a modern image management application where users can:
-- Upload multiple images at once.
-- View images in a clean, responsive gallery.
+- Upload prompt.
+- Get the image according to prompt.
 - Manage and organize uploaded content.
 
 ---
 
-## ✨ Features
-- 📤 **Multiple Image Upload** – Upload several images simultaneously.
-- 🖼 **Gallery View** – Browse images in a responsive grid.
-- ⚡ **Fast & Responsive** – Optimized for both desktop and mobile.
-- 🎨 **Clean UI** – Modern design using TailwindCSS.
 
 ---
 
